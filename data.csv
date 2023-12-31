@@ -1,4 +1,4 @@
-Age,Gender,Blood_Type,Medical_Condition,Date_of_Admission,Doctor,Hospital,Insurance_Provider,Billing_Amount,Admission_Type,Discharge_Date,Medication,Test_Results
+age,gender,blood_type,medical_condition,date_of_admission,doctor,hospital,insurance_provider,billing_amount,admission_type,discharge_date,medication,test_results
 81,Female,O-,Diabetes,2022-11-17,Patrick Parker,Wallace-Hamilton,Medicare,37490.98336352819,Elective,2022-12-01,Aspirin,Inconclusive
 35,Male,O+,Asthma,2023-06-01,Diane Jackson,"Burke, Griffin and Cooper",UnitedHealthcare,47304.06484547511,Emergency,2023-06-15,Lipitor,Normal
 61,Male,B-,Obesity,2019-01-09,Paul Baker,Walton LLC,Medicare,36874.89699661277,Emergency,2019-02-08,Lipitor,Normal
